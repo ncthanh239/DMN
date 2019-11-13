@@ -1,0 +1,132 @@
+C:\Users\HP\AppData\Local\Temporary Projects\damminhnhat\bin\Debug\damminhnhat.exe
+C:\Users\HP\AppData\Local\Temporary Projects\damminhnhat\bin\Debug\damminhnhat.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\damminhnhat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\AppData\Local\Temporary Projects\damminhnhat\obj\x86\Debug\damminhnhat.Form1.resources
+C:\Users\HP\AppData\Local\Temporary Projects\damminhnhat\obj\x86\Debug\damminhnhat.Properties.Resources.resources
+C:\Users\HP\AppData\Local\Temporary Projects\damminhnhat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HP\AppData\Local\Temporary Projects\damminhnhat\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HP\AppData\Local\Temporary Projects\damminhnhat\obj\x86\Debug\damminhnhat.exe
+C:\Users\HP\AppData\Local\Temporary Projects\damminhnhat\obj\x86\Debug\damminhnhat.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\damminhnhat\obj\x86\Debug\damminhnhat.dangky.resources
+C:\Users\HP\AppData\Local\Temporary Projects\damminhnhat\obj\x86\Debug\damminhnhat.dangnhap.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.exe
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.pdb
+E:\dmn\damminhnhat\damminhnhat\bin\Debug\damminhnhat.exe
+E:\dmn\damminhnhat\damminhnhat\bin\Debug\damminhnhat.pdb
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.dangky.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.dangnhap.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Form1.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.main.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Properties.Resources.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.ql_admin.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.ql_users.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.ql_giaovien.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.ql_truongkhoa.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.hethong.doimatkhau.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Quanly.ql_diem.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Quanly.ql_khoa.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Quanly.ql_chinhsach.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Quanly.ql_gv.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Quanly.ql_lop.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Quanly.ql_monhoc.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Quanly.ql_sinhvien.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Search.tk_monhoc.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Search.tk_giaovien.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Search.tk_khoa.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Search.tk_lop.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Search.tk_chinhsach.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Search.tksinhvien.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Search.tkchinhsach.resources
+E:\dmn\damminhnhat\damminhnhat\bin\Debug\damminhnhat.exe.config
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\RdlCompile.cache
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\RdlCompile.compiled
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.in_chinhsach.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.in_diem.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.in_khoa.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.in_lop.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.in_giaovien.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.in_monhoc.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.in_sinhvien.resources
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\bin\Debug\damminhnhat.exe.config
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.exe
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.pdb
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\bin\Debug\damminhnhat.exe
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\bin\Debug\damminhnhat.pdb
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.csprojResolveAssemblyReference.cache
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.dangky.resources
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.dangnhap.resources
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Form1.resources
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.hethong.doimatkhau.resources
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.ql_giaovien.resources
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.ql_truongkhoa.resources
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.ql_users.resources
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.in_chinhsach.resources
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.in_diem.resources
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.in_giaovien.resources
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.in_khoa.resources
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.in_lop.resources
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.in_monhoc.resources
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.in_sinhvien.resources
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.main.resources
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Properties.Resources.resources
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.ql_admin.resources
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Quanly.ql_chinhsach.resources
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Quanly.ql_diem.resources
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Quanly.ql_gv.resources
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Quanly.ql_khoa.resources
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Quanly.ql_lop.resources
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Quanly.ql_monhoc.resources
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Quanly.ql_sinhvien.resources
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Search.tkchinhsach.resources
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Search.tksinhvien.resources
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Search.tk_chinhsach.resources
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Search.tk_giaovien.resources
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Search.tk_khoa.resources
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Search.tk_lop.resources
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Search.tk_monhoc.resources
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.csproj.GenerateResource.Cache
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\RdlCompile.cache
+C:\Users\Minh Nhat\Desktop\Minh_Nhat\DMN\damminhnhat\damminhnhat\obj\x86\Debug\RdlCompile.compiled
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\bin\Debug\damminhnhat.exe.config
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.exe
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.pdb
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\bin\Debug\damminhnhat.exe
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\bin\Debug\damminhnhat.pdb
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.csprojResolveAssemblyReference.cache
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.dangky.resources
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.dangnhap.resources
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Form1.resources
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.hethong.doimatkhau.resources
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.ql_giaovien.resources
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.ql_truongkhoa.resources
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.ql_users.resources
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.main.resources
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Properties.Resources.resources
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.ql_admin.resources
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Quanly.ql_chinhsach.resources
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Quanly.ql_diem.resources
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Quanly.ql_gv.resources
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Quanly.ql_khoa.resources
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Quanly.ql_lop.resources
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Quanly.ql_monhoc.resources
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Quanly.ql_sinhvien.resources
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Search.tkchinhsach.resources
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Search.tksinhvien.resources
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Search.tk_chinhsach.resources
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Search.tk_giaovien.resources
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Search.tk_khoa.resources
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Search.tk_lop.resources
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Search.tk_monhoc.resources
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.csproj.GenerateResource.Cache
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\RdlCompile.cache
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\RdlCompile.compiled
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.In1.resources
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.InDiem.resources
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.InSV.resources
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.InKhoa.resources
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.InLop.resources
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.InGV.resources
+C:\Users\84965\Desktop\DMN\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.InMonHoc.resources

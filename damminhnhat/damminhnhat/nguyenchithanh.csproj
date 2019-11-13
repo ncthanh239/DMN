@@ -1,0 +1,520 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1A3C2200-9534-4832-9A4F-122AA8174774}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>damminhnhat</RootNamespace>
+    <AssemblyName>damminhnhat</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin.Designer.cs">
+      <DependentUpon>admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dangky.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dangky.Designer.cs">
+      <DependentUpon>dangky.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dangnhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dangnhap.Designer.cs">
+      <DependentUpon>dangnhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Diem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Diem.Designer.cs">
+      <DependentUpon>Diem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInMonHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInMonHoc.Designer.cs">
+      <DependentUpon>FormInMonHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInTTCS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInTTCS.Designer.cs">
+      <DependentUpon>FormInTTCS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInTTDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInTTDiem.Designer.cs">
+      <DependentUpon>FormInTTDiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInTTKhoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInTTKhoa.Designer.cs">
+      <DependentUpon>FormInTTKhoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInTTLop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInTTLop.Designer.cs">
+      <DependentUpon>FormInTTLop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInTTSV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInTTSV.Designer.cs">
+      <DependentUpon>FormInTTSV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hethong\doimatkhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hethong\doimatkhau.Designer.cs">
+      <DependentUpon>doimatkhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hethong\quanlyAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hethong\quanlyAdmin.Designer.cs">
+      <DependentUpon>quanlyAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hethong\quanlyGiaoVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hethong\quanlyGiaoVien.Designer.cs">
+      <DependentUpon>quanlyGiaoVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hethong\quanlyTruongKhoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hethong\quanlyTruongKhoa.Designer.cs">
+      <DependentUpon>quanlyTruongKhoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hethong\quanlyUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hethong\quanlyUser.Designer.cs">
+      <DependentUpon>quanlyUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="inTTGV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="inTTGV.Designer.cs">
+      <DependentUpon>inTTGV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="qlttGiaoVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="qlttGiaoVien.Designer.cs">
+      <DependentUpon>qlttGiaoVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="qlttLop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="qlttLop.Designer.cs">
+      <DependentUpon>qlttLop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="qlttMonHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="qlttMonHoc.Designer.cs">
+      <DependentUpon>qlttMonHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="qlttSinhViencs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="qlttSinhViencs.Designer.cs">
+      <DependentUpon>qlttSinhViencs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="thanhqlsv1DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>thanhqlsv1DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="thanhqlsv1DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>thanhqlsv1DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="thanhqlsv1DataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>thanhqlsv1DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="thanhqlsv1DataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>thanhqlsv1DataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="thanhqlsv1DataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>thanhqlsv1DataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="thanhqlsv1DataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>thanhqlsv1DataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="thanhqlsv1DataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>thanhqlsv1DataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="thongtin\tt_giaovien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="thongtin\tt_giaovien.Designer.cs">
+      <DependentUpon>tt_giaovien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KetNoiCSDL.cs" />
+    <Compile Include="main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main.Designer.cs">
+      <DependentUpon>main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="thongtin\tt_khoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="thongtin\tt_khoa.Designer.cs">
+      <DependentUpon>tt_khoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="thongtin\tt_sinhvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="thongtin\tt_sinhvien.Designer.cs">
+      <DependentUpon>tt_sinhvien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tkChinhSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tkChinhSach.Designer.cs">
+      <DependentUpon>tkChinhSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tkGiaoVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tkGiaoVien.Designer.cs">
+      <DependentUpon>tkGiaoVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tkKhoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tkKhoa.Designer.cs">
+      <DependentUpon>tkKhoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tkLop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tkLop.Designer.cs">
+      <DependentUpon>tkLop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tkMonHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tkMonHoc.Designer.cs">
+      <DependentUpon>tkMonHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tkSinhVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tkSinhVien.Designer.cs">
+      <DependentUpon>tkSinhVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ttChinhSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ttChinhSach.Designer.cs">
+      <DependentUpon>ttChinhSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ttKhoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ttKhoa.Designer.cs">
+      <DependentUpon>ttKhoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ttLop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ttLop.Designer.cs">
+      <DependentUpon>ttLop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ttMonHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ttMonHoc.Designer.cs">
+      <DependentUpon>ttMonHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="users.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="users.Designer.cs">
+      <DependentUpon>users.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="dangky.resx">
+      <DependentUpon>dangky.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dangnhap.resx">
+      <DependentUpon>dangnhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Diem.resx">
+      <DependentUpon>Diem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInMonHoc.resx">
+      <DependentUpon>FormInMonHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInTTCS.resx">
+      <DependentUpon>FormInTTCS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInTTDiem.resx">
+      <DependentUpon>FormInTTDiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInTTGiaoVien.rdlc" />
+    <EmbeddedResource Include="FormInTTKhoa.resx">
+      <DependentUpon>FormInTTKhoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInTTLop.resx">
+      <DependentUpon>FormInTTLop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInTTSV.resx">
+      <DependentUpon>FormInTTSV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hethong\doimatkhau.resx">
+      <DependentUpon>doimatkhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InTTCS.rdlc" />
+    <EmbeddedResource Include="InTTDiem.rdlc" />
+    <EmbeddedResource Include="inTTGV.resx">
+      <DependentUpon>inTTGV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="inTTKhoa.rdlc" />
+    <EmbeddedResource Include="inTTLop.rdlc" />
+    <EmbeddedResource Include="InTTMonHoc.rdlc" />
+    <EmbeddedResource Include="main.resx">
+      <DependentUpon>main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="hethong\quanlyAdmin.resx">
+      <DependentUpon>quanlyAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hethong\quanlyGiaoVien.resx">
+      <DependentUpon>quanlyGiaoVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hethong\quanlyTruongKhoa.resx">
+      <DependentUpon>quanlyTruongKhoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hethong\quanlyUser.resx">
+      <DependentUpon>quanlyUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="qlttGiaoVien.resx">
+      <DependentUpon>qlttGiaoVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="qlttLop.resx">
+      <DependentUpon>qlttLop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="qlttMonHoc.resx">
+      <DependentUpon>qlttMonHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="qlttSinhViencs.resx">
+      <DependentUpon>qlttSinhViencs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="thongtin\tt_giaovien.resx">
+      <DependentUpon>tt_giaovien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="thongtin\tt_khoa.resx">
+      <DependentUpon>tt_khoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="thongtin\tt_sinhvien.resx">
+      <DependentUpon>tt_sinhvien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tkChinhSach.resx">
+      <DependentUpon>tkChinhSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tkGiaoVien.resx">
+      <DependentUpon>tkGiaoVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tkKhoa.resx">
+      <DependentUpon>tkKhoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tkLop.resx">
+      <DependentUpon>tkLop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tkMonHoc.resx">
+      <DependentUpon>tkMonHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tkSinhVien.resx">
+      <DependentUpon>tkSinhVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ttChinhSach.resx">
+      <DependentUpon>ttChinhSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ttKhoa.resx">
+      <DependentUpon>ttKhoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ttLop.resx">
+      <DependentUpon>ttLop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ttMonHoc.resx">
+      <DependentUpon>ttMonHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="thanhqlsv1DataSet.xsc">
+      <DependentUpon>thanhqlsv1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="thanhqlsv1DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>thanhqlsv1DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="thanhqlsv1DataSet.xss">
+      <DependentUpon>thanhqlsv1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="thanhqlsv1DataSet1.xsc">
+      <DependentUpon>thanhqlsv1DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="thanhqlsv1DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>thanhqlsv1DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="thanhqlsv1DataSet1.xss">
+      <DependentUpon>thanhqlsv1DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="thanhqlsv1DataSet2.xsc">
+      <DependentUpon>thanhqlsv1DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="thanhqlsv1DataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>thanhqlsv1DataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="thanhqlsv1DataSet2.xss">
+      <DependentUpon>thanhqlsv1DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="thanhqlsv1DataSet3.xsc">
+      <DependentUpon>thanhqlsv1DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="thanhqlsv1DataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>thanhqlsv1DataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="thanhqlsv1DataSet3.xss">
+      <DependentUpon>thanhqlsv1DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="thanhqlsv1DataSet4.xsc">
+      <DependentUpon>thanhqlsv1DataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="thanhqlsv1DataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>thanhqlsv1DataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="thanhqlsv1DataSet4.xss">
+      <DependentUpon>thanhqlsv1DataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="thanhqlsv1DataSet5.xsc">
+      <DependentUpon>thanhqlsv1DataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="thanhqlsv1DataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>thanhqlsv1DataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="thanhqlsv1DataSet5.xss">
+      <DependentUpon>thanhqlsv1DataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="thanhqlsv1DataSet6.xsc">
+      <DependentUpon>thanhqlsv1DataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="thanhqlsv1DataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>thanhqlsv1DataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="thanhqlsv1DataSet6.xss">
+      <DependentUpon>thanhqlsv1DataSet6.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,27 @@
+C:\Users\HP\AppData\Local\Temporary Projects\damminhnhat\bin\Debug\damminhnhat.exe
+C:\Users\HP\AppData\Local\Temporary Projects\damminhnhat\bin\Debug\damminhnhat.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\damminhnhat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\AppData\Local\Temporary Projects\damminhnhat\obj\x86\Debug\damminhnhat.Form1.resources
+C:\Users\HP\AppData\Local\Temporary Projects\damminhnhat\obj\x86\Debug\damminhnhat.Properties.Resources.resources
+C:\Users\HP\AppData\Local\Temporary Projects\damminhnhat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HP\AppData\Local\Temporary Projects\damminhnhat\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HP\AppData\Local\Temporary Projects\damminhnhat\obj\x86\Debug\damminhnhat.exe
+C:\Users\HP\AppData\Local\Temporary Projects\damminhnhat\obj\x86\Debug\damminhnhat.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\damminhnhat\obj\x86\Debug\damminhnhat.dangky.resources
+C:\Users\HP\AppData\Local\Temporary Projects\damminhnhat\obj\x86\Debug\damminhnhat.dangnhap.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.exe
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.pdb
+E:\dmn\damminhnhat\damminhnhat\bin\Debug\damminhnhat.exe
+E:\dmn\damminhnhat\damminhnhat\bin\Debug\damminhnhat.pdb
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.dangky.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.dangnhap.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Form1.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.main.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.Properties.Resources.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.ql_admin.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.ql_users.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.ql_giaovien.resources
+E:\dmn\damminhnhat\damminhnhat\obj\x86\Debug\damminhnhat.ql_truongkhoa.resources
